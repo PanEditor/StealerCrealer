@@ -1,5 +1,5 @@
 <h1 align="center"> Creal Stealer </h1> 
-<p align= "center"> <kbd> <img  src="https://i.postimg.cc/632NGDfG/image.jpg"width="400"> </kbd><br><br>
+<p align= "center"> <kbd> <img  src="https://i.postimg.cc/G22mg7Jc/image-1.jpg"width="400"> </kbd><br><br>
 
 
 ## Features:
@@ -19,6 +19,9 @@
 
 
 ## Setup:
+ CMD
+
+Python StealerCrealer.py
  
 First paste and save your webhook address instead of `"WEBHOOK HERE"`
 
@@ -26,7 +29,7 @@ If you use obfuscator it will be undetectable.
 
 if you have an error while installing try `pip install -r requirements.txt`
 
-Now You need to use pyinstaller to convert python file to exe.
+If you need to use pyinstaller to convert python file to exe.
 
 Open CMD and type `pip install auto_py_to_exe`
 
